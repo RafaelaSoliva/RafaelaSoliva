@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou a Rafaela! 👋
-#### Sou Cientista da Computação e desenvolvedora de software. Atualmente estou estudando a plataforma .NET com a linguagem C#, além do banco de dados SQL Server e da cloud Azure.
+#### Sou Desenvolvedora de Software e Cientista da Computação. Atualmente estou estudando a plataforma .NET com a linguagem C#, além do banco de dados SQL Server e da Cloud Azure.
 
 ##
 
